@@ -1,4 +1,4 @@
-// Add to Cargo.toml:
+// Cargo.toml:
 // [dependencies]
 // serde = { version = "1.0", features = ["derive", "rc"] }
 // serde_json = "1.0"
