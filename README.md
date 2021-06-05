@@ -9,7 +9,7 @@ Originally the json file(s) have been processed by Python code and this is a sim
 
 `cargo run`
 
-### Output
+## Expected output
 
 ```
 space1 RefCell { value: Space { name: "2D", coordinates: [RefCell { value: Coordinate { name: "x", ctype: "float" } }, RefCell { value: Coordinate { name: "y", ctype: "float" } }] } }
